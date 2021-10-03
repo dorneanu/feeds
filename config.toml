@@ -1,0 +1,4 @@
+baseURL = "http://feeds.brainfck.org"
+languageCode = "en-us"
+title = "Feeds"
+theme = "minimo"
