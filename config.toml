@@ -1,4 +1,11 @@
 baseURL = "http://feeds.brainfck.org"
 languageCode = "en-us"
-title = "Feeds"
+title = "brainfck feeds"
 theme = "minimo"
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
