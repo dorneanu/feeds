@@ -29,7 +29,7 @@ asdkjhaskdhasd
 - some content here
 - bla
 - alles klar
-** 2nd post                                                                    :linkedin:
+** 2nd post                                                                    :linkedin:golang:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2021-2nd-post
 :END:
