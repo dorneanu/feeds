@@ -29,9 +29,16 @@ asdkjhaskdhasd
 - some content here
 - bla
 - alles klar
-** 2nd post
+** 2nd post                                                                    :linkedin:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2021-2nd-post
+:END:
+post summary.
+#+hugo: more
+My post content.
+** Only twitter                                                                :twitter:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2021-only-twitter
 :END:
 post summary.
 #+hugo: more
