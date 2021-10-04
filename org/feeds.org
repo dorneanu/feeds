@@ -51,7 +51,12 @@ My post content.
 Some text here and there.
 - text here
 - text [[https://google.de][some link]]
-
+** The frustration with the productivity culture                               :linkedin:twitter:
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :posturl https://www.newyorker.com/culture/office-space/the-frustration-with-productivity-culture/amp
+:EXPORT_FILE_NAME: 2021-the-frustration-with-productivity-culture
+:END:
+ Next time you don't feel productive, keep in mind: "The software industry didn’t increase productivity by demanding more from its engineers; instead, it developed a more productive system to organize their efforts." Great reading on productivity (also applied to software engineering)!
 
 * Other feeds
 :PROPERTIES:
