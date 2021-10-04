@@ -43,6 +43,15 @@ My post content.
 post summary.
 #+hugo: more
 My post content.
+** Simple post                                                                 :twitter:
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :posturl https://heise.de
+:EXPORT_FILE_NAME: 2021-simple-post
+:END:
+Some text here and there.
+- text here
+- text [[https://google.de][some link]]
+
 
 * Other feeds
 :PROPERTIES:
