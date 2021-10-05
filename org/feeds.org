@@ -57,6 +57,13 @@ Some text here and there.
 :EXPORT_FILE_NAME: 2021-the-frustration-with-productivity-culture
 :END:
  Next time you don't feel productive, keep in mind: "The software industry didn’t increase productivity by demanding more from its engineers; instead, it developed a more productive system to organize their efforts." Great reading on productivity (also applied to software engineering)!
+** The unlikely story of Bitcoin and El Salvador                               :linkedin:
+:PROPERTIES:
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :posturl https://bitcoinmagazine.com/.amp/culture/the-polarity-of-bitcoin-in-el-salvador
+:EXPORT_FILE_NAME: 2021-the-unlikely-story-of-bitcoin-and-el-salvador
+:END:
+I guess revolution is not happening in Western countries. Read this article if you want to know why El Salvador has adopted Bitcoin as an official currency.
+A Salvadoran friend told me almost all of the historical background given in the article is true.
 
 * Other feeds
 :PROPERTIES:
