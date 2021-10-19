@@ -64,6 +64,13 @@ Some text here and there.
 :END:
 I guess revolution is not happening in Western countries. Read this article if you want to know why El Salvador has adopted Bitcoin as an official currency.
 A Salvadoran friend told me almost all of the historical background given in the article is true.
+** Microservices architecture: What the gurus say about it
+:PROPERTIES:
+:TIMESTAMP: <2021-10-06 Wed>
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :posturl https://herbertograca.com/2017/01/26/microservices-architecture/amp/
+:EXPORT_FILE_NAME: 2021-microservices-architecture-what-the-gurus-say-about-it
+:END:
+This article combines ideas and best practices from gurus like Eric Evans (author of Domain-Driven Design), Martin Fowler, Rebecca Parons (author of Building Evolutionary Architectures). Although this article is almost 5 years old, the same principles still apply.
 
 * Other feeds
 :PROPERTIES:
