@@ -71,6 +71,14 @@ A Salvadoran friend told me almost all of the historical background given in the
 :EXPORT_FILE_NAME: 2021-microservices-architecture-what-the-gurus-say-about-it
 :END:
 This article combines ideas and best practices from gurus like Eric Evans (author of Domain-Driven Design), Martin Fowler, Rebecca Parons (author of Building Evolutionary Architectures). Although this article is almost 5 years old, the same principles still apply.
+** Generate GPG Keys With Curve Ed25519
+:PROPERTIES:
+:TIMESTAMP: <2021-10-19 Tue>
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :posturl https://digitalneanderthal.com/post/gpg/
+:EXPORT_FILE_NAME: 2021-generate-gpg-keys-with-curve-ed25519
+:END:
+How to manage GPG keys in 2021. The author shows how to use sub-keys instead of master keys
+for different contexts (work, personal, social media, SSH etc) and how to generate elliptic curves (Ed25519) which are way more secret than RSA.
 
 * Other feeds
 :PROPERTIES:
