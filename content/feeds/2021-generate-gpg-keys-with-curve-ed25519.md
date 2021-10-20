@@ -1,7 +1,8 @@
 +++
 title = "Generate GPG Keys With Curve Ed25519"
 author = ["Victor Dorneanu"]
-lastmod = 2021-10-19T06:18:02+02:00
+lastmod = 2021-10-20T07:50:41+02:00
+tags = ["linkedin"]
 draft = false
 weight = 2009
 posturl = "https://digitalneanderthal.com/post/gpg/"
