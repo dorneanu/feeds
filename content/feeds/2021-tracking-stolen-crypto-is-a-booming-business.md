@@ -1,8 +1,8 @@
 +++
 title = "Tracking stolen crypto is a booming business"
 author = ["Victor Dorneanu"]
-lastmod = 2021-10-25T08:06:56+02:00
-tags = ["linkedin"]
+lastmod = 2021-10-25T08:07:31+02:00
+tags = ["linkedin", "twitter"]
 draft = false
 weight = 2010
 posturl = "https://www.washingtonpost.com/technology/2021/09/22/stolen-crypto/"

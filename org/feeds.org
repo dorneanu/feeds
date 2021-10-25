@@ -79,7 +79,7 @@ This article combines ideas and best practices from gurus like Eric Evans (autho
 :END:
 How to manage GPG keys in 2021. The author shows how to use sub-keys instead of master keys
 for different contexts (work, personal, social media, SSH etc) and how to generate elliptic curves (Ed25519) which are way more secret than RSA.
-** Tracking stolen crypto is a booming business                                :linkedin:
+** Tracking stolen crypto is a booming business                                :linkedin:twitter:
 :PROPERTIES:
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :posturl https://www.washingtonpost.com/technology/2021/09/22/stolen-crypto/
 :EXPORT_FILE_NAME: 2021-tracking-stolen-crypto-is-a-booming-business
