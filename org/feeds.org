@@ -86,6 +86,20 @@ for different contexts (work, personal, social media, SSH etc) and how to genera
 :END:
 Seems that forensics in the crypto gets completely new dimensions. I wonder if AI/ML will have a huge impact on data analysis with regards to this topic.
 
+** How the Facebook Whistleblower's Team Forced a Reckoning                    :linkedin:
+:PROPERTIES:
+:TIMESTAMP: <2021-10-30 Sat>
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :posturl https://time.com/6104899/facebook-reckoning-frances-haugen/?amp=true
+:EXPORT_FILE_NAME: 2021-how-the-facebook-whistleblower-s-team-forced-a-reckoning
+:END:
+Are you still using Facebook? Check out these:
+
+"Some of the documents detailed an internal study that found that Instagram, its photo-sharing app, made [[https://time.com/6098771/instagram-body-image-teen-girls/][32% of teen girls]] feel worse about their bodies. Others showed how a change to Facebook's algorithm in 2018, touted as a way to increase meaningful social interactions on the platform, actually incentivized divisive posts and misinformation."
+
+"[...] Facebook has repeatedly misled the public about what its own research reveals about the safety of children, the efficacy of its artificial intelligence systems, and its role in spreading divisive and extreme messages."
+
+"The company's leadership knows how to make Facebook and Instagram safer, but won't make the necessary changes because they have put their astronomical profits before people"
+
 * Other feeds
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: others
